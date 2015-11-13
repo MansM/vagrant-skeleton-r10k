@@ -1,1 +1,1 @@
-mod 'puppetlabs/java'
+mod 'puppetlabs/java',
